@@ -49,6 +49,7 @@ values in other cells.
 %doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_en.tex
 %doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_fr.pdf
 %doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_fr.tex
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -59,3 +60,5 @@ values in other cells.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}

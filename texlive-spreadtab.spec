@@ -6,7 +6,7 @@
 # catalog-version 0.4a
 Name:		texlive-spreadtab
 Version:	0.4a
-Release:	1
+Release:	2
 Summary:	Spreadsheet features for LaTeX tabular environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spreadtab

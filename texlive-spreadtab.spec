@@ -1,12 +1,12 @@
-# revision 23526
+# revision 26384
 # category Package
 # catalog-ctan /macros/latex/contrib/spreadtab
-# catalog-date 2011-08-11 15:31:53 +0200
+# catalog-date 2012-05-14 12:19:39 +0200
 # catalog-license lppl1.3
-# catalog-version 0.4a
+# catalog-version 0.4b
 Name:		texlive-spreadtab
-Version:	0.4a
-Release:	2
+Version:	0.4b
+Release:	1
 Summary:	Spreadsheet features for LaTeX tabular environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spreadtab

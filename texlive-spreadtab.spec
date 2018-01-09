@@ -1,11 +1,5 @@
-# revision 26384
-# category Package
-# catalog-ctan /macros/latex/contrib/spreadtab
-# catalog-date 2012-05-14 12:19:39 +0200
-# catalog-license lppl1.3
-# catalog-version 0.4b
 Name:		texlive-spreadtab
-Version:	0.4c
+Version:	0.4d
 Release:	1
 Summary:	Spreadsheet features for LaTeX tabular environments
 Group:		Publishing
@@ -34,12 +28,8 @@ values in other cells.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/spreadtab/spreadtab.sty
-%doc %{_texmfdistdir}/doc/latex/spreadtab/README
-%doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_en.pdf
-%doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_en.tex
-%doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_fr.pdf
-%doc %{_texmfdistdir}/doc/latex/spreadtab/spreadtab_doc_fr.tex
+%{_texmfdistdir}/tex/latex/spreadtab
+%doc %{_texmfdistdir}/doc/latex/spreadtab
 
 #-----------------------------------------------------------------------
 %prep

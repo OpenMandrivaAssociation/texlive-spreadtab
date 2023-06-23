@@ -1,6 +1,6 @@
 Name:		texlive-spreadtab
-Version:	50147
-Release:	2
+Version:	66655
+Release:	1
 Summary:	Spreadsheet features for LaTeX tabular environments
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spreadtab

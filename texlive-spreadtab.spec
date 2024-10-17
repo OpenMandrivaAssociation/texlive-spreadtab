@@ -3,7 +3,7 @@ Version:	68256
 Release:	1
 Summary:	Spreadsheet features for LaTeX tabular environments
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/spreadtab
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/spreadtab
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spreadtab.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/spreadtab.doc.r%{version}.tar.xz

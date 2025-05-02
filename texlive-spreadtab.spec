@@ -1,5 +1,5 @@
 Name:		texlive-spreadtab
-Version:	68256
+Version:	74630
 Release:	1
 Summary:	Spreadsheet features for LaTeX tabular environments
 Group:		Publishing
